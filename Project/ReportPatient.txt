@@ -1,0 +1,6 @@
+Patient Report: 
+Problem (Option No): 6
+Cause of Problem (Option No): 2
+Past Medical History (Option No): 7
+Medications Currently in Use (Option No): 6
+Allergy (Option No): 5
